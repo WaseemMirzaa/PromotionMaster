@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/user/Downloads/promotion_app-master/build/url_launcher/intermediates/merged_res/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/815f4e3d18fa97df3a3a530bee619b38/transformed/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/promotion_app-master/build/url_launcher/intermediates/merged_res/debug/drawable/notification_bg.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/815f4e3d18fa97df3a3a530bee619b38/transformed/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/promotion_app-master/build/url_launcher/intermediates/merged_res/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/815f4e3d18fa97df3a3a530bee619b38/transformed/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/user/Downloads/promotion_app-master/build/url_launcher/intermediates/merged_res/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/815f4e3d18fa97df3a3a530bee619b38/transformed/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

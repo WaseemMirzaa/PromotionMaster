@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:1:1-6:12
+INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:1:70-119
+		INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:2:3-5:13
+package#com.instagram.android
+ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:3:5-53
+	android:name
+		ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:3:14-50
+package#com.whatsapp
+ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:4:5-44
+	android:name
+		ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml:4:14-41
+uses-sdk
+INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_social_content_share-1.0.1/android/src/main/AndroidManifest.xml

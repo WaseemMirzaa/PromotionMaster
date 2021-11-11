@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837394415323",
+    "project_id": "ams-app-bd2f3",
+    "storage_bucket": "ams-app-bd2f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837394415323:android:f0861900e9ac21fb7456fe",
+        "android_client_info": {
+          "package_name": "com.sahi.promotionApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837394415323-opcpeevh6e0n61j3juo0v11f0v9ac9er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFLyiqqad5MZoONGrHHtwo2PKiE5e2FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837394415323-opcpeevh6e0n61j3juo0v11f0v9ac9er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

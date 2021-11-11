@@ -1,0 +1,6 @@
+com/bhagya/flutter_social_content_share/BuildConfig.java
+ com.bhagya.flutter_social_content_share.BuildConfig
+com/bhagya/flutter_social_content_share/FlutterSocialContentSharePlugin.java
+ com.bhagya.flutter_social_content_share.FlutterSocialContentSharePlugin
+ com.bhagya.flutter_social_content_share.FlutterSocialContentSharePlugin$1
+ com.bhagya.flutter_social_content_share.FlutterSocialContentSharePlugin$2
